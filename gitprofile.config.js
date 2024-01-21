@@ -153,8 +153,8 @@ const config = {
     // Custom theme
     customTheme: {
       primary: '#F8F2FF',
-      secondary: '#219aaf',
-      accent: '#e8d03a',
+      secondary: '#FBF8FF',
+      accent: '#9584AA',
       neutral: '#2A2730',
       'base-100': '#E3E3ED',
       '--rounded-box': '3rem',
