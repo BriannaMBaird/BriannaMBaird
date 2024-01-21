@@ -51,13 +51,7 @@ const config = {
       to: 'October 2023',
       // companyLink: 'https://example.com',
     },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      // companyLink: 'https://example.com',
-    },
+   
   ],
   /* certifications: [
     {
@@ -74,12 +68,7 @@ const config = {
       from: '2015',
       Projected: '2024',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+  
   ],
 
   // To hide the `My Projects` section, keep it empty.
