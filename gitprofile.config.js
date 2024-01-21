@@ -66,7 +66,7 @@ const config = {
       institution: 'East Carolina University',
       degree: 'Bachelors of Arts in Management Information Systems',
       from: '2015',
-      Projected: '2024',
+      to: '2024',
     },
   
   ],
