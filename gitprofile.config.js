@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'Brianna M Baird', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,22 +11,22 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    linkedin: 'BriannaBaird',
+    // twitter: 'arif_szn',
+    // mastodon: 'arifszn@mastodon.social',
+    // facebook: '',
+    // instagram: '',
+    // youtube: '', // example: 'pewdiepie'
+    // dribbble: '',
+    // behance: '',
+    // medium: 'arifszn',
+    // dev: 'arifszn',
+    // stackoverflow: '', // example: '1/jeff-atwood'
+    // skype: '',
+    // telegram: '',
+    // website: 'https://arifszn.com',
+    phone: '###-###-0843',
+    email: 'bairdb15@students.ecu.edu',
   },
   resume: {
     fileUrl:
@@ -34,34 +34,29 @@ const config = {
   },
   skills: [
     'PHP',
-    'Laravel',
+    'Database Normalization',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
+    'HTML',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'MYSQL',
+    'Data Analysis',
+    'GitHub',
+    'AWS',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'Olive garden',
+      position: 'Kitchen Professional',
       from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      to: 'October 2023',
+      // companyLink: 'https://example.com',
     },
     {
       company: 'Company Name',
       position: 'Position',
       from: 'July 2019',
       to: 'August 2021',
-      companyLink: 'https://example.com',
+      // companyLink: 'https://example.com',
     },
   ],
   /* certifications: [
@@ -74,42 +69,42 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'East Carolina University',
+      degree: 'Bachelors of Arts in Management Information Systems',
       from: '2015',
-      to: '2019',
+      Projected: '2024',
     },
-    {
+   /* {
       institution: 'Institution Name',
       degree: 'Degree',
       from: '2012',
       to: '2014',
-    },
+    },*/
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Vested CVs',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'A site where you can personalize your CV and provide a custom link for your prospective employers',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://vestedcv.com',
     },
     {
-      title: 'Project Name',
+      title: 'VestedSocials',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'A new social media site that will give users the ability to customize their online experience.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://vestedsocials.com',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
-  blog: {
+ /* blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
-  },
+  },*/
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
@@ -168,7 +163,7 @@ const config = {
 
     // Custom theme
     customTheme: {
-      primary: '#fc055b',
+      primary: '#F8F2FF',
       secondary: '#219aaf',
       accent: '#e8d03a',
       neutral: '#2A2730',
