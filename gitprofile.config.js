@@ -74,12 +74,12 @@ const config = {
       from: '2015',
       Projected: '2024',
     },
-   /* {
+    {
       institution: 'Institution Name',
       degree: 'Degree',
       from: '2012',
       to: '2014',
-    },*/
+    },
   ],
 
   // To hide the `My Projects` section, keep it empty.
@@ -100,11 +100,11 @@ const config = {
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
- /* blog: {
+  blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
-  },*/
+  },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
