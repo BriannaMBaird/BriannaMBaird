@@ -46,15 +46,27 @@ const config = {
   experiences: [
     {
       company: 'Olive garden',
-      position: 'Kitchen Professional',
+      position: 'Curlinary Professional',
       from: 'September 2021',
       to: 'October 2023',
       // companyLink: 'https://example.com',
     },
    
   ],
-  /* certifications: [
+  certifications: [
     {
+      name: 'Cloud Computing- AWS Cloud Practitioner',
+     // body: 'Lorem ipsum dolor sit amet',
+      year: 'Feburary 2023',
+      link: 'https://example.com'
+    },
+     {
+      name: '(ISC)2',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2022',
+      link: 'https://example.com'
+    },
+     {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
