@@ -29,7 +29,7 @@ const config = {
     email: 'bairdb15@students.ecu.edu',
   },
   resume: {
-    fileUrl:'file:///C:/Users/baird/OneDrive/Documents/Desktop/brianna%20resume.pdf', 
+    fileUrl:'C:/Users/baird/OneDrive/Documents/Desktop/brianna%20resume.pdf', 
     // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
