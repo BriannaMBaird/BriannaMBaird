@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'file:///C:/Users/baird/OneDrive/Documents/Desktop/brianna%20resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
