@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'BriannaBaird',
+    linkedin: 'www.linkedin.com/in/brianna-baird-4801371b4',
     // twitter: 'arif_szn',
     // mastodon: 'arifszn@mastodon.social',
     // facebook: '',
