@@ -26,11 +26,12 @@ const config = {
     // telegram: '',
     // website: 'https://arifszn.com',
     phone: '###-###-0843',
-    email: 'bairdb15@students.ecu.ed',
+    email: 'bairdb15@students.ecu.edu',
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'file:///C:/Users/baird/OneDrive/Documents/Desktop/brianna%20resume.pdf', 
+    // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
