@@ -26,7 +26,7 @@ const config = {
     // telegram: '',
     // website: 'https://arifszn.com',
     phone: '###-###-0843',
-    email: 'bairdb15@students.ecu.edu',
+    email: 'bairdb15@students.ecu.ed',
   },
   resume: {
     fileUrl:
