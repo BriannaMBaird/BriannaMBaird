@@ -57,19 +57,19 @@ const config = {
     {
       name: 'Cloud Computing- AWS Cloud Practitioner',
      // body: 'Lorem ipsum dolor sit amet',
-      year: 'Feburary 2023',
+      year: 'April 2024',
       link: 'https://example.com'
     },
      {
       name: '(ISC)2',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+     //body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2024',
       link: 'https://example.com'
     },
      {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Cisco Packet Tracer',
+      //body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2024',
       link: 'https://example.com'
     },
   ], */
