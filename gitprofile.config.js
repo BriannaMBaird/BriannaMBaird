@@ -72,7 +72,7 @@ const config = {
       year: 'March 2024',
       link: 'https://example.com'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'East Carolina University',
